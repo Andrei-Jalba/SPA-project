@@ -1,0 +1,30 @@
+/*!!!!!!!!!!!!!!!!!!!! main stuff !!!!!!!!!!!!!!!!!!!!!!!!!*/
+body {
+  height: 100%;
+  margin: 0;
+  /* padding: 0; */
+  background: rgb(20, 20, 19);
+}
+.header {
+  width: 1030px;
+  margin: 0 auto;
+  padding: 100px 50px;
+  font-size: 32px;
+  height: auto;
+  /* padding-top: 40px; */
+}
+.container {
+  width: 1030px;
+  margin: 0 auto;
+  padding: 100px 50px;
+  font-size: 32px;
+  height: auto;
+}
+.container h1 {
+  text-align: center;
+  font-size: 100px;
+}
+
+.Main {
+  padding: 2rem;
+}
